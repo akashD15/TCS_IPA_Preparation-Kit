@@ -21,7 +21,10 @@ https://pythonvenue.blogspot.com/2020/05/tcs-pa-plsql-mcqs.html
 
 Special 35 marks question:
 https://www.youtube.com/playlist?list=PLBdvdnwn-Z5Y-onmX0kB2SxpYuPKtNsN0
+
 https://www.youtube.com/playlist?list=PLJdfbBGGnreS7uzTwJLXYHkHtyFqnZ4DT
+
+https://youtube.com/playlist?list=PLBdvdnwn-Z5Y-onmX0kB2SxpYuPKtNsN0&si=UXgHIrntx6Ko95-K
 
 More MCQs series:
 https://www.youtube.com/playlist?list=PLkYo5Hs2rvZ7F9IOWGV-g84_IQr1LFn9l
